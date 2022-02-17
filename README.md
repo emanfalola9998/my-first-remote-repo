@@ -13,3 +13,5 @@ This is how you make
 changes again
 
 new changes via nano
+
+checking if ssh key is working
